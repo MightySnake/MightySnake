@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Thomas 
 - 👀 I’m interested in ... Programming and sim racing
 - 🌱 I’m currently learning ... Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Just about everything
 - 📫 How to reach me ... jacobt257@gmail.com 
 
 <!---
